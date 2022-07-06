@@ -1,1 +1,1 @@
-This project implements matrix multiplication on Nvidia GPUs using CUDA. Please refer to [report.pdf]() for details.
+This project implements matrix multiplication on Nvidia GPUs using CUDA. Please refer to [report.pdf](https://github.com/abhishekvijeev/matmul-cuda/blob/master/report.pdf) for details.
